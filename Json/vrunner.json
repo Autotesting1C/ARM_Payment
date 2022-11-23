@@ -2,9 +2,10 @@
     "$schema": "https://raw.githubusercontent.com/vanessa-opensource/vanessa-runner/develop/vanessa-runner-schema.json",
     "vanessa": {
         "--vanessasettings": "C:\\Jenkins\\workspace\\ARM_PAYMENT\\GIT_ARM_PAYMENT\\Json\\VAParams.json",
-        "--ibconnection": "/S1C-GT-AS-1:1841/ARM_Payment_TKC_autotests", 
+        "--ibconnection": "/S1C-GT-AS-1:1841/TIFA_arm_payment_tkc", 
         "--additional": "/UseHWLicenses-",
         "--pathvanessa": "C:\\Jenkins\\vanessa-automation\\vanessa-automation.epf",
+        "--v8version": "8.3.18.1741",
         "--workspace": ".",
         "--db-user": "Администратор",
         "--db-pwd": "",
