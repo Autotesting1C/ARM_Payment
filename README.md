@@ -14,8 +14,8 @@ Colons can be used to align columns.
 | **Дата завершения автоматизации:**        | -                                                                                                                                                             |
 | **Количество запланированных часов:**     | 480 часов                                                                                                                                                     |
 | **Количество затраченных часов:**         | 341 часов на 06.12.2022г.                                                                                                                                     |
-| **Инструкция по запуску автотестов:**     | https://confluence.tccenter.ru/pages/viewpage.action?pageId=252254051                                                                                         |
-| **Документация:**                         | https://jira.tccenter.ru/browse/IASPAY-280 <br/> https://testit.tccenter.ru/projects/33976/tests?isolatedSection=2186214e-b4cc-44c8-8bc8-d2733353f718 <br/> https://confluence.tccenter.ru/pages/viewpage.action?pageId=101390728                                                                                       |
+| **Инструкция по запуску автотестов:**     | [Инструкция](https://confluence.tccenter.ru/pages/viewpage.action?pageId=252254051)                                                                           |
+| **Документация:**                         | [Задача на автоматизацию выплат](https://jira.tccenter.ru/browse/IASPAY-280) <br/> [Тест кейсы](https://testit.tccenter.ru/projects/33976/tests?isolatedSection=2186214e-b4cc-44c8-8bc8-d2733353f718) <br/> [Инструкция](https://confluence.tccenter.ru/pages/viewpage.action?pageId=101390728 ) |
 
 ## Перечень тестов АРМ выплат
 
