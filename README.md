@@ -27,4 +27,4 @@ Colons can be used to align columns.
 | Документация:                         | https://jira.tccenter.ru/browse/IASPAY-280 
                                             https://testit.tccenter.ru/projects/33976/tests?isolatedSection=2186214e-b4cc-44c8-8bc8-d2733353f718 
                                             https://confluence.tccenter.ru/pages/viewpage.action?pageId=101390728                                                                                       |
-| ------------------------------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| ------------------------------------- |                                                                                                                                                               |
